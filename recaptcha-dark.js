@@ -1,9 +1,7 @@
 // ==UserScript==
 // @name          reCAPTCHA Dark
-// @namespace     http://userstyles.org
 // @description	  Dark theme for Google reCAPTHCHA
 // @author        abhishekchakraborty
-// @homepage      https://userstyles.org/styles/144504
 // @include          *://*/*
 // @run-at        document-start
 // @version       0.20170704181000
