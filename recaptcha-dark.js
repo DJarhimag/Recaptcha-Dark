@@ -2,7 +2,7 @@
 // @name          reCAPTCHA Dark
 // @description	  Dark theme for Google reCAPTHCHA
 // @author        abhishekchakraborty
-// @include          *://*/*
+// @include       *://*/*
 // @run-at        document-start
 // @version       0.20170704181000
 // ==/UserScript==
